@@ -1,0 +1,19 @@
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Cache do Streamlit
+.streamlit/secrets.toml
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VS Code
+.vscode/
